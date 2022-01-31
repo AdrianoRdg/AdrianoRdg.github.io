@@ -8,6 +8,10 @@ h1 {
     color: #0B2545;
     font: sans-serif;
 }
+#name{
+    text-align: center;
+}
+
 h4 {
     color: #134074;
     font-size: 18px;
@@ -15,9 +19,22 @@ h4 {
 
 #photus{
     float: left;
+    padding: 10px;
+    background-color: #8DA9C4;
     
 }
 
 .img-container {
     height: 300px;
+    position: relative;
+}
+
+.descricao{
+    position: absolute;
+    top: 4%;
+    left: 22%;
+}
+
+ul li:nth-child(odd) {
+    background-color: #134074;
 }

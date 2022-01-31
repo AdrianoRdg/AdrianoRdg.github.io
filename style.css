@@ -1,0 +1,23 @@
+body {
+    background-color: ghostwhite;
+}
+img {
+    border-radius: 50%;
+}
+h1 {
+    color: #0B2545;
+    font: sans-serif;
+}
+h4 {
+    color: #134074;
+    font-size: 18px;
+}
+
+#photus{
+    float: left;
+    
+}
+
+.img-container {
+    height: 300px;
+}
